@@ -616,7 +616,15 @@ erDiagram
 ## Заполнил таблицу
 <img width="1141" height="661" alt="image" src="https://github.com/user-attachments/assets/6b1a69f0-47e5-41e2-93c0-685deba1e9b2" />
 ## Проверяем
-<img width="1355" height="494" alt="image" src="https://github.com/user-attachments/assets/5ff609b1-cf10-45d6-b2f5-69ef800fbbaa" />
+## Сами таблицы
 <img width="1542" height="263" alt="image" src="https://github.com/user-attachments/assets/d9a6c0a4-dbec-4962-a959-c9ca9dd4a34f" />
-## В остальных также присутствуют данные
+## Данные в таблицах
+## таблица  apartament
+<img width="1355" height="494" alt="image" src="https://github.com/user-attachments/assets/5ff609b1-cf10-45d6-b2f5-69ef800fbbaa" />
+## таблица  client
+<img width="1531" height="316" alt="image" src="https://github.com/user-attachments/assets/ec47a674-61de-4828-b1a0-45eb1a6510f4" />
+## таблица  deal
+<img width="1493" height="323" alt="image" src="https://github.com/user-attachments/assets/2f642635-5e19-4ec4-afd4-67e95e799e5d" />
+## таблица  realtor
+<img width="1437" height="322" alt="image" src="https://github.com/user-attachments/assets/d24da01f-5287-4db7-9d06-5d98c5e5817c" />
 
