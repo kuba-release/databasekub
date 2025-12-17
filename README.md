@@ -612,4 +612,10 @@ erDiagram
 # Лабораторная работа №2 (Инсталляция БД на сервере)
 ## Создание DDL-запросов для PostgreSQL
 ## Создание схемы и таблиц
-#<img width="1007" height="928" alt="image" src="https://github.com/user-attachments/assets/61405e59-01eb-4666-81bc-d5083baf8b00" />
+<img width="851" height="757" alt="image" src="https://github.com/user-attachments/assets/1bb5409e-8820-42b7-96a5-e9c87fd5f969" />
+## Заполнил таблицу
+<img width="1141" height="661" alt="image" src="https://github.com/user-attachments/assets/6b1a69f0-47e5-41e2-93c0-685deba1e9b2" />
+## Проверяем
+<img width="1355" height="494" alt="image" src="https://github.com/user-attachments/assets/5ff609b1-cf10-45d6-b2f5-69ef800fbbaa" />
+<img width="737" height="213" alt="image" src="https://github.com/user-attachments/assets/da47a46d-4a0d-42c7-a13b-804e16b72354" />
+
