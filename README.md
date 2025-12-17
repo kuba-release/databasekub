@@ -711,7 +711,5 @@ erDiagram
 <img width="753" height="405" alt="image" src="https://github.com/user-attachments/assets/9ae1e2b8-a32f-4722-8a9c-6e54e15655f1" />
 
 
-<img width="795" height="359" alt="image" src="https://github.com/user-attachments/assets/3d3341d0-a10a-4ecb-be34-bf6d5db43855" />
-
 ### Анализ после индексов
 <img width="807" height="668" alt="image" src="https://github.com/user-attachments/assets/3b091038-0706-4cf9-bf0d-a98c86204cb9" />
