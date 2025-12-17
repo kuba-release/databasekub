@@ -617,5 +617,6 @@ erDiagram
 <img width="1141" height="661" alt="image" src="https://github.com/user-attachments/assets/6b1a69f0-47e5-41e2-93c0-685deba1e9b2" />
 ## Проверяем
 <img width="1355" height="494" alt="image" src="https://github.com/user-attachments/assets/5ff609b1-cf10-45d6-b2f5-69ef800fbbaa" />
-<img width="737" height="213" alt="image" src="https://github.com/user-attachments/assets/da47a46d-4a0d-42c7-a13b-804e16b72354" />
+<img width="1542" height="263" alt="image" src="https://github.com/user-attachments/assets/d9a6c0a4-dbec-4962-a959-c9ca9dd4a34f" />
+## В остальных также присутствуют данные
 
