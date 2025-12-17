@@ -636,3 +636,21 @@ erDiagram
 
 ### Перечень сделок с комиссионным вознаграждением
 <img width="1267" height="609" alt="image" src="https://github.com/user-attachments/assets/e9321bf4-f757-4bd6-952b-ae03c9951e42" />
+
+
+# Лабораторная работа №3 (Представление, процедуры)
+## Цель работы: Изучить VIEW, PROCEDURE
+
+## Созданные объекты:
+### Представление для сделок с комиссией
+<img width="638" height="243" alt="image" src="https://github.com/user-attachments/assets/c8232968-dacd-4a38-bb89-34faca0ae59f" />
+<img width="871" height="602" alt="image" src="https://github.com/user-attachments/assets/4bb2f63f-d5b7-463e-8d4a-e4524504e781" />
+### Представление для квартир по комнатам
+<img width="688" height="603" alt="image" src="https://github.com/user-attachments/assets/960dd500-f05a-4565-aa05-ebb2eaacba97" />
+
+###Процедура для добавления риелтора
+<img width="710" height="457" alt="image" src="https://github.com/user-attachments/assets/c9746a78-f781-4784-977c-a50d59ddabff" />
+###Создано сложное представление full_deal_info, которое объединяет данные из 4 таблиц (deal, realtor, apartment, client) в один запрос. Это демонстрирует использование представлений для упрощения сложных запросов
+<img width="832" height="459" alt="image" src="https://github.com/user-attachments/assets/f27aa74c-94a1-485f-a70f-3f85d8947c88" />
+<img width="1485" height="597" alt="image" src="https://github.com/user-attachments/assets/802236fb-d101-423f-abc1-96d3106edd5a" />
+
