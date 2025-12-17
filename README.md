@@ -673,3 +673,45 @@ erDiagram
 
 <img width="1485" height="597" alt="image" src="https://github.com/user-attachments/assets/802236fb-d101-423f-abc1-96d3106edd5a" />
 
+# Лабораторная работа №4 (Анализ производительности)
+
+### Генератор риелторов (20к записей)
+
+<img width="829" height="158" alt="image" src="https://github.com/user-attachments/assets/2b4c188a-3021-4b58-8bb9-567513ab08ba" />
+
+### Генератор квартир (20к записей)
+
+<img width="834" height="212" alt="image" src="https://github.com/user-attachments/assets/f52fb216-6c46-47b1-a01a-c18310de9883" />
+
+### Генератор клиентов (20к записей)
+
+<img width="586" height="139" alt="image" src="https://github.com/user-attachments/assets/f338e644-a081-4694-9301-6edf7f885e81" />
+
+### Генератор сделок (20к записей)
+
+<img width="889" height="259" alt="image" src="https://github.com/user-attachments/assets/67da842f-80d8-4b57-9fda-9264b523c77d" />
+
+### Количество записей
+
+<img width="515" height="180" alt="image" src="https://github.com/user-attachments/assets/9ece364b-b179-462b-9123-bf7fd94f2472" />
+
+### Анализ без индексов
+
+<img width="669" height="540" alt="image" src="https://github.com/user-attachments/assets/40cff58d-3b61-4a00-9bd9-244bf703af81" />
+
+
+
+
+
+
+
+### Создание индексов
+
+
+<img width="753" height="405" alt="image" src="https://github.com/user-attachments/assets/9ae1e2b8-a32f-4722-8a9c-6e54e15655f1" />
+
+
+<img width="795" height="359" alt="image" src="https://github.com/user-attachments/assets/3d3341d0-a10a-4ecb-be34-bf6d5db43855" />
+
+### Анализ после индексов
+<img width="807" height="668" alt="image" src="https://github.com/user-attachments/assets/3b091038-0706-4cf9-bf0d-a98c86204cb9" />
