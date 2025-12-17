@@ -630,7 +630,7 @@ erDiagram
 ### Таблица  realtor
 <img width="1437" height="322" alt="image" src="https://github.com/user-attachments/assets/d24da01f-5287-4db7-9d06-5d98c5e5817c" />
 
-##запросы
+## запросы
 ### Список квартир по количеству комнат
 <img width="771" height="626" alt="image" src="https://github.com/user-attachments/assets/9147f3a3-6a05-4695-a43f-a00680588a2f" />
 
