@@ -614,6 +614,7 @@ erDiagram
 
 ### Создание схемы и таблиц
 <img width="851" height="757" alt="image" src="https://github.com/user-attachments/assets/1bb5409e-8820-42b7-96a5-e9c87fd5f969" />
+
 ### Заполнил таблицу
 <img width="1141" height="661" alt="image" src="https://github.com/user-attachments/assets/6b1a69f0-47e5-41e2-93c0-685deba1e9b2" />
 ### Проверяем
