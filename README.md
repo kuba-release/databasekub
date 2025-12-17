@@ -633,5 +633,6 @@ erDiagram
 ##запросы
 ### Список квартир по количеству комнат
 <img width="771" height="626" alt="image" src="https://github.com/user-attachments/assets/9147f3a3-6a05-4695-a43f-a00680588a2f" />
+
 ### Перечень сделок с комиссионным вознаграждением
 <img width="1267" height="609" alt="image" src="https://github.com/user-attachments/assets/e9321bf4-f757-4bd6-952b-ae03c9951e42" />
