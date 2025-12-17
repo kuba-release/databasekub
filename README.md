@@ -646,7 +646,9 @@ erDiagram
 <img width="638" height="243" alt="image" src="https://github.com/user-attachments/assets/c8232968-dacd-4a38-bb89-34faca0ae59f" />
 
 <img width="871" height="602" alt="image" src="https://github.com/user-attachments/assets/4bb2f63f-d5b7-463e-8d4a-e4524504e781" />
+
 ### Представление для квартир по комнатам
+
 <img width="688" height="603" alt="image" src="https://github.com/user-attachments/assets/960dd500-f05a-4565-aa05-ebb2eaacba97" />
 
 
