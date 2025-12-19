@@ -713,3 +713,22 @@ erDiagram
 
 ### Анализ после индексов
 <img width="807" height="668" alt="image" src="https://github.com/user-attachments/assets/3b091038-0706-4cf9-bf0d-a98c86204cb9" />
+
+# Лабораторная работа №5 (Триггеры и аудит)
+
+### Создание таблицы-журнала для аудита изменений
+
+<img width="780" height="477" alt="image" src="https://github.com/user-attachments/assets/3491dfff-44c5-4b20-8e89-a7f894d2ea62" />
+
+### Триггер аудита изменений (INSERT, UPDATE, DELETE)
+
+<img width="867" height="785" alt="image" src="https://github.com/user-attachments/assets/80d1d595-0408-4a9a-8581-2b26f2e869ad" />
+
+### Триггер каскадного удаления (один-ко-многим)
+
+<img width="958" height="755" alt="image" src="https://github.com/user-attachments/assets/ff0f6041-af06-4bc3-876c-efdb6602f7ef" />
+
+### Тест
+
+<img width="871" height="624" alt="image" src="https://github.com/user-attachments/assets/74402dab-30b9-4165-be6d-533cf6861c32" />
+
